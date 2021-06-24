@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HerrTxbias' GitHub stats](https://github-readme-stats.vercel.app/api?username=herrtxbias)](https://github.com/anuraghazra/github-readme-stats)
+# Statistics
+[![HerrTxbias' GitHub stats](https://github-readme-stats.vercel.app/api?username=herrtxbias&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
