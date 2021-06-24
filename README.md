@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Statistics
 [![HerrTxbias' GitHub stats](https://gh-readme-stats-herrtxbias.vercel.app/api?username=herrtxbias&show_icons=true&theme=react&hide_border=true&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://gh-readme-stats-herrtxbias.vercel.app/api/top-langs/?username=herrtxbias&show_icons=true&theme=react&hide_border=true&count_private=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://gh-readme-stats-herrtxbias.vercel.app/api/top-langs/?username=herrtxbias&show_icons=true&theme=react&hide_border=true&count_private=true&layout=compact&hide_border=true&extra=Utilbot/bot;Utilbot/api)](https://github.com/anuraghazra/github-readme-stats)
