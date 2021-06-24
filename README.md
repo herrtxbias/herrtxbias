@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 # Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrtxbias&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![HerrTxbias' GitHub stats](https://github-readme-stats.vercel.app/api?username=herrtxbias&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrtxbias&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![HerrTxbias' GitHub stats](https://github-readme-stats.vercel.app/api?username=herrtxbias&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
